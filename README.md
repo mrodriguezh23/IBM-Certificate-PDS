@@ -1,1 +1,1 @@
-# IBM-Certificate-PDS
+# IBM Professional Data Scientist Certificate 
